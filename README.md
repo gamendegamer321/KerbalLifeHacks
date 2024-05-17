@@ -13,6 +13,8 @@ Currently, this mod includes the following life hacks:
 #### Flight view
 - **IVA Portraits Toggler** by [WiS3](https://github.com/WiS3) - Adds a button to the app bar to toggle the Kerbal
   portraits panel.
+- **Launch Countdown** by [gamendegamer](https://github.com/gamendegamer321) - Shows a countdown during the pre-launch
+  stage of your rocket.
 #### Map
 - **Warp To Orbital Points** by [munix](https://github.com/jan-bures) - Adds buttons to warp to apoapsis, periapsis and
   SOI change.
